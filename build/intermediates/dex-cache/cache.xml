@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-77a8016eb7fc6f4aabe984d52df0d4fcbd5d75a9.jar" />
+    </item>
+    <item
+        jar="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\pre-dexed\debug\classes-5a126ef2e655ce0add89cb9db2de1e6a8b33bbf0.jar" />
+    </item>
+    <item
+        jar="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\pre-dexed\debug\classes-1a7ba953192d9d73f3fd8e62b7f9db526f062760.jar" />
+    </item>
+    <item
+        jar="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\pre-dexed\debug\classes-7da82829d02d24f47992d612fb6a7032cb2c2fac.jar" />
+    </item>
+    <item
+        jar="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-f1f46f282ac19c238f2caf15752ba971813b1faa.jar" />
+    </item>
+    <item
+        jar="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\pre-dexed\debug\classes-a978f5e025d17a2848fa53d858fbbdaa0650a158.jar" />
+    </item>
+    <item
+        jar="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\pre-dexed\debug\classes-09413cc205fc77037b91f0e1933d52a9a67f30e3.jar" />
+    </item>
+    <item
+        jar="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\pre-dexed\debug\classes-39d2bc59e17579374e41f187e2fcd4b3c2c3f6fe.jar" />
+    </item>
+    <item
+        jar="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\pre-dexed\debug\classes-d48bc40b7abfe2a4a2f9e75c69eebad726bec799.jar" />
+    </item>
+    <item
+        jar="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\pre-dexed\debug\classes-ffcc869ed567febde71af5fafa3b19b340abb8a7.jar" />
+    </item>
+    <item
+        jar="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\pre-dexed\debug\classes-dbd7cda98f2029dd86d13a38a427ddf1e0f876e6.jar" />
+    </item>
+    <item
+        jar="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\pre-dexed\debug\classes-35a3d4f3c5f22da5c46e7c1b79caf2c21e2c5c68.jar" />
+    </item>
+    <item
+        jar="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\pre-dexed\debug\classes-d444e3c45a3acff88bcd1fad298242aa569d0d9e.jar" />
+    </item>
+    <item
+        jar="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\pre-dexed\debug\classes-948b6180359d0bb969d3a6ca00d54b866cc3dca7.jar" />
+    </item>
+    <item
+        jar="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\pre-dexed\debug\classes-48cf4675e4a73ed693732d5904cf5a4c07c2ed26.jar" />
+    </item>
+    <item
+        jar="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\pre-dexed\debug\classes-124e1b5f8eca228e0d6dff277d4a0e29c14bae49.jar" />
+    </item>
+    <item
+        jar="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\pre-dexed\debug\classes-8f3e88f6e2f0340a17256aceeff3d2227d013995.jar" />
+    </item>
+    <item
+        jar="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\pre-dexed\debug\classes-eb35361a116335df199b1d7197afe5bb6ea8648c.jar" />
+    </item>
+    <item
+        jar="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\pre-dexed\debug\classes-fa803320013d85d06c60351c61aa60d10039f691.jar" />
+    </item>
+    <item
+        jar="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\pre-dexed\debug\classes-cb12f1a3ade016ab65abd3e804ee61926803aff0.jar" />
+    </item>
+    <item
+        jar="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\pre-dexed\debug\classes-b4d48205bd5482681c391eb707ec4f1452ae75a6.jar" />
+    </item>
+    <item
+        jar="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\pre-dexed\debug\classes-b4fa6d33667e86a54d703062d4a1e2ffc89efb4e.jar" />
+    </item>
+    <item
+        jar="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\pre-dexed\debug\classes-4f0ed8c66766c6208ad60b0a51aaa371e084bf72.jar" />
+    </item>
+    <item
+        jar="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\pre-dexed\debug\classes-7359512a65c8e53e40ffc9b68f4c42377be57fa4.jar" />
+    </item>
+    <item
+        jar="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\pre-dexed\debug\classes-fcb91471a81b806c18f74b6124b39489de819b29.jar" />
+    </item>
+    <item
+        jar="C:\android\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-61de6b12f7dcbad9395fe9d2834ebe589da81e4a.jar" />
+    </item>
+    <item
+        jar="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\pre-dexed\debug\classes-bac6518b8557a3899c2b1c6807975de013bdf8ee.jar" />
+    </item>
+    <item
+        jar="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\TEMP.AD\Desktop\Mapappv2\app\build\intermediates\pre-dexed\debug\classes-96bbd99eb9fc1b951dd235746824e8c282cd0593.jar" />
+    </item>
+
+</items>
